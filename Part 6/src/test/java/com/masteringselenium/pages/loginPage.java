@@ -6,7 +6,7 @@ import org.openqa.selenium.support.FindBy;
 /**
  * Created by sewadeus on 03/07/2016.
  */
-public class loginPage {
+public class LoginPage {
     @FindBy(css = "sigin_link")
     private WebElement signin_link;
     @FindBy(name = "email")
