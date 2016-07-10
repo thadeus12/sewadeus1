@@ -75,7 +75,7 @@ public abstract class Driver {
                     chromePreferences.put("profile.password_manager_enabled", "false");
                     System.setProperty("webdriver.chrome.driver",chromeCentosdriver);
                 }
-                System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+ Constants.chromeLinuxdriver);
+                System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+ Constants.chromeWindowsdriver);
                 driver = new ChromeDriver(dc);
 
             }
