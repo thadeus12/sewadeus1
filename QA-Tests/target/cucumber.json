@@ -1,1 +1,508 @@
-[]
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 11,
+        "name": "search merchant",
+        "description": "",
+        "id": "user-merchant-search;search-merchant;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 6365111105,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I go to shoop home page\"",
+            "match": {
+              "location": "Common_sd.i_go_to_shoop_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 306073658,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I enter merchant name as \"My Jolie candle\"into search",
+            "match": {
+              "arguments": [
+                {
+                  "val": "My Jolie candle",
+                  "offset": 26
+                }
+              ],
+              "location": "Common_sd.i_enter_merchant_name_as_into_search(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3260252954,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should see name of \"My Jolie candle\" and own  best rates displayed",
+            "match": {
+              "arguments": [
+                {
+                  "val": "My Jolie candle",
+                  "offset": 22
+                }
+              ],
+              "location": "Common_sd.i_should_see_name_of_and_own_best_rates_displayed(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@smoke-test"
+          }
+        ]
+      },
+      {
+        "line": 12,
+        "name": "search merchant",
+        "description": "",
+        "id": "user-merchant-search;search-merchant;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2464540014,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I go to shoop home page\"",
+            "match": {
+              "location": "Common_sd.i_go_to_shoop_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 233679774,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I enter merchant name as \"shopty\"into search",
+            "match": {
+              "arguments": [
+                {
+                  "val": "shopty",
+                  "offset": 26
+                }
+              ],
+              "location": "Common_sd.i_enter_merchant_name_as_into_search(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3244933392,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should see name of \"shopty\" and own  best rates displayed",
+            "match": {
+              "arguments": [
+                {
+                  "val": "shopty",
+                  "offset": 22
+                }
+              ],
+              "location": "Common_sd.i_should_see_name_of_and_own_best_rates_displayed(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@smoke-test"
+          }
+        ]
+      },
+      {
+        "line": 13,
+        "name": "search merchant",
+        "description": "",
+        "id": "user-merchant-search;search-merchant;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1926732602,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I go to shoop home page\"",
+            "match": {
+              "location": "Common_sd.i_go_to_shoop_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 228153602,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I enter merchant name as \"Access Moto\"into search",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Access Moto",
+                  "offset": 26
+                }
+              ],
+              "location": "Common_sd.i_enter_merchant_name_as_into_search(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3250110045,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should see name of \"Access Moto\" and own  best rates displayed",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Access Moto",
+                  "offset": 22
+                }
+              ],
+              "location": "Common_sd.i_should_see_name_of_and_own_best_rates_displayed(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@smoke-test"
+          }
+        ]
+      },
+      {
+        "line": 14,
+        "name": "search merchant",
+        "description": "",
+        "id": "user-merchant-search;search-merchant;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1414337487,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I go to shoop home page\"",
+            "match": {
+              "location": "Common_sd.i_go_to_shoop_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 358413785,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I enter merchant name as \"M\u0026MS\"into search",
+            "match": {
+              "arguments": [
+                {
+                  "val": "M\u0026MS",
+                  "offset": 26
+                }
+              ],
+              "location": "Common_sd.i_enter_merchant_name_as_into_search(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3199109267,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should see name of \"M\u0026MS\" and own  best rates displayed",
+            "match": {
+              "arguments": [
+                {
+                  "val": "M\u0026MS",
+                  "offset": 22
+                }
+              ],
+              "location": "Common_sd.i_should_see_name_of_and_own_best_rates_displayed(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@smoke-test"
+          }
+        ]
+      },
+      {
+        "line": 15,
+        "name": "search merchant",
+        "description": "",
+        "id": "user-merchant-search;search-merchant;;6",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1297178300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I go to shoop home page\"",
+            "match": {
+              "location": "Common_sd.i_go_to_shoop_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 173255652,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I enter merchant name as \"SOSwit\"into search",
+            "match": {
+              "arguments": [
+                {
+                  "val": "SOSwit",
+                  "offset": 26
+                }
+              ],
+              "location": "Common_sd.i_enter_merchant_name_as_into_search(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3214628962,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should see name of \"SOSwit\" and own  best rates displayed",
+            "match": {
+              "arguments": [
+                {
+                  "val": "SOSwit",
+                  "offset": 22
+                }
+              ],
+              "location": "Common_sd.i_should_see_name_of_and_own_best_rates_displayed(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@smoke-test"
+          }
+        ]
+      },
+      {
+        "line": 16,
+        "name": "search merchant",
+        "description": "",
+        "id": "user-merchant-search;search-merchant;;7",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1266953695,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I go to shoop home page\"",
+            "match": {
+              "location": "Common_sd.i_go_to_shoop_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 273855138,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I enter merchant name as \"GiFi\"into search",
+            "match": {
+              "arguments": [
+                {
+                  "val": "GiFi",
+                  "offset": 26
+                }
+              ],
+              "location": "Common_sd.i_enter_merchant_name_as_into_search(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3242279210,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should see name of \"GiFi\" and own  best rates displayed",
+            "match": {
+              "arguments": [
+                {
+                  "val": "GiFi",
+                  "offset": 22
+                }
+              ],
+              "location": "Common_sd.i_should_see_name_of_and_own_best_rates_displayed(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@smoke-test"
+          }
+        ]
+      },
+      {
+        "line": 17,
+        "name": "search merchant",
+        "description": "",
+        "id": "user-merchant-search;search-merchant;;8",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1634301610,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I go to shoop home page\"",
+            "match": {
+              "location": "Common_sd.i_go_to_shoop_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 224938363,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I enter merchant name as \"AsdeCarreaux\"into search",
+            "match": {
+              "arguments": [
+                {
+                  "val": "AsdeCarreaux",
+                  "offset": 26
+                }
+              ],
+              "location": "Common_sd.i_enter_merchant_name_as_into_search(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3280682458,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should see name of \"AsdeCarreaux\" and own  best rates displayed",
+            "match": {
+              "arguments": [
+                {
+                  "val": "AsdeCarreaux",
+                  "offset": 22
+                }
+              ],
+              "location": "Common_sd.i_should_see_name_of_and_own_best_rates_displayed(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@smoke-test"
+          }
+        ]
+      }
+    ],
+    "name": "user merchant search",
+    "description": "",
+    "id": "user-merchant-search",
+    "keyword": "Feature",
+    "uri": "loggedInSearch.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@smoke-test"
+      }
+    ]
+  }
+]
