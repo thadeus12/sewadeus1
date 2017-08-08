@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstname": "Mathews",
+      "lastname": "reece",
+      "Age": "14",
+      "address": "London",
+      "email": "reeces@gmail.com",
+      "companyId": "1"
+    },
+    {
+      "id": "2",
+      "firstname": "Viva",
+      "lastname": "cu",
+      "Age": "14",
+      "address": "London",
+      "email": "viva@gmail.com",
+      "companyId": "2"
+    },
+    {
+      "id": "3",
+      "firstname": "Luke",
+      "lastname": "Ssewanyana",
+      "Age": "3",
+      "address": "Benton",
+      "email": "luke@gmail.com",
+      "companyId": "3"
+    },
+    {
+      "id": "4",
+      "firstname": "Aiden",
+      "lastname": "Ssewanyana",
+      "Age": "1",
+      "address": "Benton",
+      "email": "Aiden@gmail.com",
+      "companyId": "4"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Smith",
+      "Description": "Smiths Group plc (LSE: SMIN) is a British multinational diversified engineering business headquartered in London, United Kingdom. It has operations in over 50 countries and employs around 23,550 staff",
+"address": "London"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "Description": "Google is an American multinational technology company that specializes in Internet-related services and products. These include online advertising technologies, search, cloud computing, software, and hardware. Google was founded in 1998 by Larry Page and Sergey Brin while they were Ph.D. students at Stanford University, in California. Together, they own about 14 percent of its shares, and control 56 percent of the stockholder voting power through supervoting stock. They incorporated Google as a privately held company on September 4, 1998. An initial public offering (IPO) took place on August 19, 2004, and Google moved to its new headquarters in Mountain View, California, nicknamed the Googleplex. In August 2015, Google announced plans to reorganize its various interests as a conglomerate called Alphabet Inc. Google, Alphabet's leading subsidiary, will continue to be the umbrella company for Alphabet's Internet interests. Upon completion of the restructure, Sundar Pichai was appointed CEO of Google; he replaced Larry Page, who became CEO of Alphabet.",
+      "address": "New York"
+    },
+    {
+      "id": "3",
+      "name": "HSBC",
+      "Description": "HSBC Holdings PLC is a British–Hong Kong[5][6] multinational banking and financial services holding company headquartered in London, England. It is the world's seventh largest bank by total assets and the largest in Europe with total assets of US$2.374 trillion (as of December 2016). It was established in its present form in London in 1991 by The Hongkong and Shanghai Banking Corporation Limited to act as a new group holding company.[7][8] The origins of the bank lie mainly in Hong Kong and to a lesser extent in Shanghai, where branches were first opened in 1865.[1] The HSBC name is derived from the initials of the Hongkong and Shanghai Banking Corporation.[9] The company was first formally incorporated in 1866. The company continues to see both the United Kingdom and Hong Kong as its",
+"address": "santa_monica"
+    },
+{
+ "id": "4",
+ "name":"Apple",
+ "Description": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California that designs, develops, and sells consumer electronics, computer software, and online services. The company's hardware products include the iPhone smartphone, the iPad tablet computer, the Mac personal computers, the iPod portable media player, the Apple Watch smartwatch, and the Apple TV digital media player. Apple's consumer software includes the macOS and iOS operating systems, the iTunes media player, the Safari web browser, and the iLife and iWork creativity and productivity suites. Its online services include the iTunes Store, the iOS App Store and Mac App Store, Apple Music, and iCloud.",
+      "address": "santa_monica"
+    }
+  ]
+}
+
+
